@@ -1,0 +1,14 @@
+{
+  "name": "free-video-tools-check",
+  "owner": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "plugins": [
+    {
+      "name": "free-video-tools-check",
+      "source": "./",
+      "description": "Use when choosing free tools for making and scheduling short videos \u2014 checking what free tiers of AI video, voice, editing and scheduling tools really allow (credits, watermarks, commercial use) before relying on them."
+    }
+  ]
+}
